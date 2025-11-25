@@ -170,7 +170,8 @@ Os seguintes documentos de apoio foram adicionados ao repositório ou possuem li
   https://docs.google.com/document/d/1wKU9CoHQFiOOhZRip0I2qXfrIvtgF6v933b6hZJ0GIg/edit?usp=sharing
   
 - BM Canvas -
-
+  https://www.canva.com/design/DAG5EaV0cEE/O6JEE7BojjcelNm84Yy9Tw/view?utm_content=DAG5EaV0cEE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h11c0256cc2
+  
 - trello-
   https://trello.com/c/HW6HYuTH#comment-691fa596775a7ad487398af6
 
